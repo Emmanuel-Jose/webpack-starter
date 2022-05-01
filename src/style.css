@@ -1,8 +1,4 @@
-html, body{
-    margin: 0;
-    background-color: #f77a7a;
-}
-
-img{
-    width: 150px;
+html{
+    margin: 0px;
+    padding: 0px;
 }
